@@ -57,23 +57,23 @@ education:
     institution: Rhodes University
     date_end: 2014
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate programme coordinator
+    company_name: SAND Technologies
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-07-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Internship coordinator
+    company_name: SAND Technologies
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-08-01
+    date_end: 2024-12-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
