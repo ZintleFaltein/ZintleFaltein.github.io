@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: An analysis of the relationship between music therapy and mental health
+#date: 2023-10-26
 external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+#tags:
+#  - Hugo
+#  - Wowchemy
+#  - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+This project was inspired by a Kaggl data set exploring the relationship between mental health and music.
 
 <!--more-->
