@@ -148,8 +148,8 @@ certifications:
     date: '2024-05-25'
     awarder: LinkedIn
     icon: linkedin
-    #summary: |
-     # Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
   - title: Generative AI: Introduction to Large Language Models   
     url: https://www.linkedin.com/learning/certificates/284f1519db30841a98fc50f933d45c3af25cbfc37981f2573acbdb64a8919423?trk=share_certificate
     date: '2024-05-29'
