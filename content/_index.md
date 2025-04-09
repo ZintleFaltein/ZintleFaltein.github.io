@@ -22,7 +22,7 @@ sections:
       css_class: dark
       background:
         color: black
-        image:
+        banner:
           # Add your image background to `assets/media/`.
           filename: mist.JPG
           filters:
