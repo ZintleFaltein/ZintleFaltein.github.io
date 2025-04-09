@@ -1,13 +1,10 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Audio books for children
+date: 2023-03-09
+external_link: https://github.com/ZintleFaltein/Hello_yolo
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - HTML
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-
+I created this project to help my nieces learn how to read
 <!--more-->
