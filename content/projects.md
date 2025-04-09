@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Projects I've worked on
+      text: I enjoy extracting meaning from data. Here is a selection of projects that I have worked on over the years.
       filters:
         folders:
           - project

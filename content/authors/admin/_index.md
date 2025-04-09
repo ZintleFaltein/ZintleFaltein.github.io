@@ -64,10 +64,10 @@ work:
     date_start: 2023-07-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #Responsibilities include:
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Internship coordinator
     company_name: SAND Technologies
     company_url: ''
@@ -75,10 +75,10 @@ work:
     date_start: 2022-08-01
     date_end: 2024-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #Responsibilities include:
+      #- Migrated infrastructure to a new data center
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Head teacher
     company_name: ExploreAI Academy
     company_url: ''
