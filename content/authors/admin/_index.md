@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data analyst
+role: Data analyst/Programme coordinator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -39,9 +39,9 @@ profiles:
     url: https://www.linkedin.com/in/zintlefaltein
 
 interests:
+  - Data analytics
   - Data stortytelling
   - Developing data talent
-  - Explainable AI
 
 education:
   - area: MSc Botany
