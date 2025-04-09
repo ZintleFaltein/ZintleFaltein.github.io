@@ -97,7 +97,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
         percent: 100
         icon: chart-bar
@@ -160,4 +160,4 @@ awards:
 
 ## About Me
 
-I am a Data practitioner who is passionate about extracting meaning from data and empowering others to make decisions on data they understand.
+I am a Data practitioner who is passionate about extracting meaning from data and empowering others to make decisions on data they understand. I have spent the past 4 years developing junior talent through teaching and working with data practitioners in the early stages of their careers to help them find their feet in the evercganging world of data.
