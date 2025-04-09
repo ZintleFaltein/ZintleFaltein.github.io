@@ -3,8 +3,8 @@ title: An analysis of the relationship between music therapy and mental health
 date: 2023-10-26
 external_link: https://github.com/ZintleFaltein/Mental-Health
 tags:
-  - Hugo
-  - Wowchemy
+  - Rmarkdown
+  - ggplot2
   - Markdown
 ---
 
