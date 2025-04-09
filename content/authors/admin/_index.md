@@ -105,15 +105,24 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Power BI  
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Data storytelling  
+        description: ''
+        percent: 40
+        icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Singing
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Plant pressing
         description: ''
         percent: 100
         icon: cat
