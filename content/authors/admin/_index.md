@@ -141,14 +141,14 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Certified Scrum Master
-    url: https://bcert.me/sxfgwnrhe
+    certificate_urlurl: https://bcert.me/sxfgwnrhe
     date: '2024-08-17'
     awarder: Scrum Alliance
     icon: coursera
     #summary: |
      # I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: AWS Certified Cloud Practitioner
-    url: https://www.credly.com/badges/8a832188-1a8c-48c3-a714-16d8d3e86014?source=linked_in_profile
+    certificate_url: https://www.credly.com/badges/8a832188-1a8c-48c3-a714-16d8d3e86014?source=linked_in_profile
     date: '2020-10-13'
     awarder: AWS
     icon: aws
