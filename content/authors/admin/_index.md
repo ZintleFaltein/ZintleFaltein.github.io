@@ -141,7 +141,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Certified Scrum Master
-    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://bcert.me/sxfgwnrhe
     date: '2024-08-17'
     awarder: Scrum Alliance
     icon: coursera
