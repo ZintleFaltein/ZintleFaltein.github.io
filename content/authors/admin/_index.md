@@ -168,4 +168,4 @@ awards:
 
 ## About Me
 
-I am a Data practitioner who is passionate about extracting meaning from data and empowering others to make decisions on data they understand. I have spent the past 4 years developing junior talent through teaching and working with data practitioners in the early stages of their careers to help them find their feet in the evercganging world of data.
+I am a Data practitioner who is passionate about extracting meaning from data and empowering others to make decisions on data they understand. I have spent the past 4 years developing junior talent through teaching and working with data practitioners in the early stages of their careers to help them find their feet in the everchanging world of data.
