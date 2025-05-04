@@ -151,7 +151,7 @@ awards:
     certificate_url: https://www.credly.com/badges/8a832188-1a8c-48c3-a714-16d8d3e86014?source=linked_in_profile
     date: '2020-10-13'
     awarder: AWS
-    icon: aws
+    icon: amazonwebservices
     #summary: |
      # Learned:
      # - Synthesize your own blockchain solutions
