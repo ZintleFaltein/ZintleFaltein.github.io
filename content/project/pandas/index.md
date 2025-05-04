@@ -1,7 +1,9 @@
 ---
 title: An analysis of the relationship between music therapy and mental health
 date: 2025-01-29
-external_link: https://github.com/ZintleFaltein/Mental-Health
+url_code: https://github.com/ZintleFaltein/Mental-Health
+url_video: https://www.youtube.com/
+url_dataset: https://www.kaggle.com/
 #tags:
  # - Rmarkdown
   #- ggplot2
