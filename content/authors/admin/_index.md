@@ -168,4 +168,4 @@ awards:
 
 ## About Me
 
-I am a Data practitioner who is passionate about extracting meaning from data and empowering others to make decisions on data they understand. I have spent the past 4 years developing junior talent through teaching and working with data practitioners in the early stages of their careers to help them find their feet in the everchanging world of data.
+I'm a Data Scientist and educator who thrives at the intersection of science, technology, and people. With roots in Botany, I transitioned into Data Science to explore how data can tell stories and drive change. At SAND Technologies, I design training programmes, mentor aspiring professionals, and help build strong foundations for future data leaders. I’m passionate about inclusive education, impactful work, and continuous learning.
