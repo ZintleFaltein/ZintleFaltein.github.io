@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data analyst/Programme coordinator
+role: Data Scientist/Programme coordinator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
