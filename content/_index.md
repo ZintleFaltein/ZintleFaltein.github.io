@@ -27,7 +27,7 @@ sections:
           filename: mist.JPG
           filters:
             brightness: 0.5
-          size: actual
+          size: contain
           position: center
           parallax: false
   #- block: markdown
