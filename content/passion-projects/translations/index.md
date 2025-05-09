@@ -1,7 +1,7 @@
 ---
 title: Song translations
 date: 2023-03-09
-external_link: https://songselect.ccli.com/search/results?list=contributor_P568288_Zintle+Faltein-Maqubela
+url_project: https://songselect.ccli.com/search/results?list=contributor_P568288_Zintle+Faltein-Maqubela
 url_video: https://www.youtube.com/@hillsongngesixhosa8231/featured
 #tags:
  # - HTML
