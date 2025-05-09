@@ -12,7 +12,8 @@ sections:
   - block: collection
     content:
       title: What I spend my time on
-      text: When I'm not working I'm heavily involved in music; playing piano, singing teaching, translations, you get the idea. Below are some of the projects that keep me busy.
+      text: When I'm not working, I'm deeply involved in music — from playing the piano and singing to teaching and translating. Below are a few of the creative and community projects that keep me inspired and engaged.
+
       filters:
         folders:
           - passion-projects
