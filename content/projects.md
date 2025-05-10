@@ -10,7 +10,7 @@ design:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: mist.JPG
+          filename: pink.JPG
           filters:
             brightness: 0.5
           size: cover
