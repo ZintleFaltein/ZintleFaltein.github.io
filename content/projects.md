@@ -6,6 +6,16 @@ type: landing
 design:
   # Section spacing
   spacing: '5rem'
+  background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: mist.JPG
+          filters:
+            brightness: 0.5
+          size: cover
+          position: left
+          parallax: false
 
 # Page sections
 sections:
