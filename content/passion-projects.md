@@ -18,9 +18,9 @@ sections:
         folders:
           - passion-projects
     design:
-      view: article-grid
+      view: showcase
       fill_image: true
-      columns: 3
+      columns: 1
       css_class: dark
       background:
         color: black
