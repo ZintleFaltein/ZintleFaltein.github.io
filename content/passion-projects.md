@@ -22,5 +22,5 @@ sections:
       fill_image: false
       columns: 3
       background:
-        colour: pink
+        colour: 'pink'
 ---  
