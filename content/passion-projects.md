@@ -18,7 +18,7 @@ sections:
         folders:
           - passion-projects
     design:
-      view: article-grid
+      view: card
       fill_image: false
       columns: 3
 ---  
