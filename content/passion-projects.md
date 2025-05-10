@@ -19,6 +19,6 @@ sections:
           - passion-projects
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
 ---  
