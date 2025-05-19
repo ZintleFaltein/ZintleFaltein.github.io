@@ -38,10 +38,10 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zintlefaltein
 
-interests:
-  - Data analytics
-  - Data stortytelling
-  - Developing data talent
+#interests:
+ # - Data analytics
+ # - Data stortytelling
+ # - Developing data talent
 
 education:
   - area: MSc Botany
@@ -83,9 +83,6 @@ work:
     date_end: 2022-12-31
     summary: |
       I led a team of Data Science facilitators, ensuring high-quality learning delivery for 150 students across four African countries while streamlining operational processes. I designed and implemented data-driven dashboards using R scripting to monitor student progress, enhance retention, and enable early intervention through timely insights.
-
-
-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
