@@ -65,7 +65,7 @@ work:
     date_start: 2023-07-01
     date_end: ''
     summary: |
-      I led the design and launch of the organisation’s graduate programme, creating a strategic pathway for attracting and developing junior talent. I establish and manage partnerships with universities nationwide, oversee graduate placements, and support managers to ensure alignment with business needs. The programme has achieved an 83% retention rate to date. I also produce regular, insight-driven reports for senior stakeholders to inform workforce planning and talent strategy.
+      - I led the design and launch of the organisation’s graduate programme, creating a strategic pathway for attracting and developing junior talent. I establish and manage partnerships with universities nationwide, oversee graduate placements, and support managers to ensure alignment with business needs. The programme has achieved an 83% retention rate to date. I also produce regular, insight-driven reports for senior stakeholders to inform workforce planning and talent strategy.
 
   - position: Internship coordinator
     company_name: ExploreAI | SAND Technologies
@@ -85,7 +85,7 @@ work:
     date_start: 2022-01-01
     date_end: 2022-12-31
     summary: |
-      I led a team of Data Science facilitators, ensuring high-quality learning delivery for 150 students across four African countries while streamlining operational processes. I designed and implemented data-driven dashboards using R scripting to monitor student progress, enhance retention, and enable early intervention through timely insights.
+      - I led a team of Data Science facilitators, ensuring high-quality learning delivery for 150 students across four African countries while streamlining operational processes. I designed and implemented data-driven dashboards using R scripting to monitor student progress, enhance retention, and enable early intervention through timely insights.
 
   - position: Data Science facilitator
     company_name: ExploreAI Academy
@@ -95,7 +95,7 @@ work:
     date_end: 2021-12-31
     summary: |
       - I delivered personalised tutoring and engaging instruction, fostering a collaborative learning environment. I monitored student progress and provided targeted interventions to support at-risk learners. To enhance remote support, I conducted weekly check-ins and built online communities, which helped boost student engagement and retention.
-      - Beyond the role:
+      - **Beyond the role**:
         - In response to reduced engagement during the shift to online teaching, I helped develop a strategy to foster a sense of community and peer support among students. The roadmap encouraged structured online interaction, collaborative problem-solving, and consistent facilitator check-ins. It was successfully adopted by multiple facilitators across cohorts, improving engagement and learner outcomes in a remote setting.     
 
 # Skills
