@@ -10,7 +10,7 @@ url_dataset: https://www.kaggle.com/
   #- Storytelling
 ---
 
-This project was inspired by a Kaggle data set exploring the relationship between mental health and music.
+#This project was inspired by a Kaggle data set exploring the relationship between mental health and music.
 
 ## Interactive Report
 
