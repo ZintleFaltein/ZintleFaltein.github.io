@@ -27,7 +27,7 @@ organizations:
   - name: ''
     url: ''
 
-<img src="avatar.jpg" alt="Profile image" style="width:500px;height:600px;">
+#<img src="avatar.jpg" alt="Profile image" style="width:500px;height:600px;">
 
 
 # Social network links
