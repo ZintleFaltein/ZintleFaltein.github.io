@@ -67,16 +67,14 @@ work:
       I led the design and launch of the organisation’s graduate programme, creating a strategic pathway for attracting and developing junior talent. I establish and manage partnerships with universities nationwide, oversee graduate placements, and support managers to ensure alignment with business needs. The programme has achieved an 83% retention rate to date. I also produce regular, insight-driven reports for senior stakeholders to inform workforce planning and talent strategy.
 
   - position: Internship coordinator
-    company_name: SAND Technologies
+    company_name: ExploreAI | SAND Technologies
     company_url: ''
     company_logo: ''
     date_start: 2022-08-01
     date_end: 2024-12-31
-    #summary: |
-      #Responsibilities include:
-      #- Migrated infrastructure to a new data center
-      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
-      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      I established and managed a Data Science & Engineering internship programme that supported over 500 graduates, securing business-aligned projects and engaging more than 100 mentors across the organisation. I applied Agile methodologies and used data-driven feedback to enhance the programme’s structure, improve project allocation, and strengthen mentorship outcomes. I developed performance tracking dashboards and organised targeted workshops and masterclasses to address skill gaps and accelerate intern development. Drawing on my experience as a Scrum Master, I embedded Agile principles into the programme to better prepare interns for collaborative, real-world work environments.
+
   - position: Head teacher
     company_name: ExploreAI Academy
     company_url: ''
