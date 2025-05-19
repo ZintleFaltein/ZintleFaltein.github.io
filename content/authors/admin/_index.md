@@ -56,6 +56,7 @@ education:
   - area: BSc Botany & Biochemistry
     institution: Rhodes University
     date_end: 2014-12-31
+
 work:
   - position: Graduate programme coordinator
     company_name: SAND Technologies
@@ -83,6 +84,15 @@ work:
     date_end: 2022-12-31
     summary: |
       I led a team of Data Science facilitators, ensuring high-quality learning delivery for 150 students across four African countries while streamlining operational processes. I designed and implemented data-driven dashboards using R scripting to monitor student progress, enhance retention, and enable early intervention through timely insights.
+
+  - position: Data Science facilitator
+    company_name: ExploreAI Academy
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-18
+    date_end: 2021-12-31
+    summary: |
+      I delivered personalised tutoring and engaging instruction, fostering a collaborative learning environment. I monitored student progress and provided targeted interventions to support at-risk learners. To enhance remote support, I conducted weekly check-ins and built online communities, which helped boost student engagement and retention.    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
