@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: pink.JPG
           filters:
-            brightness: 0.5
+            #brightness: 0.5
           size: cover
           position: left
           parallax: false
