@@ -74,7 +74,9 @@ work:
     date_start: 2022-08-01
     date_end: 2024-12-31
     summary: |
-      I established and managed a Data Science & Engineering internship programme that supported over 500 graduates, securing business-aligned projects and engaging more than 100 mentors across the organisation. I applied Agile methodologies and used data-driven feedback to enhance the programme’s structure, improve project allocation, and strengthen mentorship outcomes. I developed performance tracking dashboards and organised targeted workshops and masterclasses to address skill gaps and accelerate intern development. Drawing on my experience as a Scrum Master, I embedded Agile principles into the programme to better prepare interns for collaborative, real-world work environments.
+      - I established and managed a Data Science & Engineering internship programme that supported over 500 graduates, securing business-aligned projects and engaging more than 100 mentors across the organisation. I applied Agile methodologies and used data-driven feedback to enhance the programme’s structure, improve project allocation, and strengthen mentorship outcomes. I developed performance tracking dashboards and organised targeted workshops and masterclasses to address skill gaps and accelerate intern development. Drawing on my experience as a Scrum Master, I embedded Agile principles into the programme to better prepare interns for collaborative, real-world work environments.
+      - Beyond the role:
+        - I volunteered to record voiceovers for our online teaching materials, enhancing accessibility and engagement for remote learners. This initiative helped create a more personalised and relatable learning experience, contributing to improved student satisfaction and retention.
 
   - position: Head teacher
     company_name: ExploreAI Academy
@@ -92,7 +94,9 @@ work:
     date_start: 2021-01-18
     date_end: 2021-12-31
     summary: |
-      I delivered personalised tutoring and engaging instruction, fostering a collaborative learning environment. I monitored student progress and provided targeted interventions to support at-risk learners. To enhance remote support, I conducted weekly check-ins and built online communities, which helped boost student engagement and retention.    
+      - I delivered personalised tutoring and engaging instruction, fostering a collaborative learning environment. I monitored student progress and provided targeted interventions to support at-risk learners. To enhance remote support, I conducted weekly check-ins and built online communities, which helped boost student engagement and retention.
+      - Beyond the role:
+        - In response to reduced engagement during the shift to online teaching, I helped develop a strategy to foster a sense of community and peer support among students. The roadmap encouraged structured online interaction, collaborative problem-solving, and consistent facilitator check-ins. It was successfully adopted by multiple facilitators across cohorts, improving engagement and learner outcomes in a remote setting.     
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
