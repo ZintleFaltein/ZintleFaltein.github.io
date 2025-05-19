@@ -63,9 +63,11 @@ work:
     company_logo: ''
     date_start: 2023-07-01
     date_end: ''
-    #summary: |2-
+    summary: |
       #Responsibilities include:
-      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I led the design and launch of the organisation’s graduate programme, creating a strategic pathway for attracting and developing junior talent. I establish and manage partnerships with universities nationwide, oversee graduate placements, and support managers to ensure alignment with business needs. The programme has achieved an 83% retention rate to date. I also produce regular, insight-driven reports for senior stakeholders to inform workforce planning and talent strategy.
+
+
       #- lorem ipsum dolor sit amet, consectetur adipiscing elit
       #- lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Internship coordinator
