@@ -6,7 +6,7 @@ type: landing
 design:
   spacing: '5rem'
   background:
-        color: black
+        color: rose
         image:
           # Add your image background to `assets/media/`.
           filename: pink.JPG
