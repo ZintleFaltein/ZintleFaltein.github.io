@@ -27,6 +27,9 @@ organizations:
   - name: ''
     url: ''
 
+<img src="avatar.jpg" alt="Profile image" style="width:500px;height:600px;">
+
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -178,4 +181,4 @@ awards:
 
 ## About Me
 
-I'm a Data Scientist and educator who thrives at the intersection of science, technology, and people. With roots in Botany, I transitioned into Data Science to explore how data can tell stories and drive change. At SAND Technologies, I design training programmes, mentor aspiring professionals, and help build strong foundations for future data leaders. I’m passionate about inclusive education, impactful work, and continuous learning.
+I'm a Data Scientist and educator who thrives at the intersection of science, technology, and people. With roots in Botany an Biochemistry, I transitioned into Data Science to explore how data can tell stories and drive change. At SAND Technologies, I design training programmes, mentor aspiring professionals, and help build strong foundations for future data leaders. I’m passionate about inclusive education, impactful work, and continuous learning.
