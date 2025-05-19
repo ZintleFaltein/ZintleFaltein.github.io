@@ -75,7 +75,7 @@ work:
     date_end: 2024-12-31
     summary: |
       - I established and managed a Data Science & Engineering internship programme that supported over 500 graduates, securing business-aligned projects and engaging more than 100 mentors across the organisation. I applied Agile methodologies and used data-driven feedback to enhance the programme’s structure, improve project allocation, and strengthen mentorship outcomes. I developed performance tracking dashboards and organised targeted workshops and masterclasses to address skill gaps and accelerate intern development. Drawing on my experience as a Scrum Master, I embedded Agile principles into the programme to better prepare interns for collaborative, real-world work environments.
-      - Beyond the role:
+      - **Beyond the role**:
         - I volunteered to record voiceovers for our online teaching materials, enhancing accessibility and engagement for remote learners. This initiative helped create a more personalised and relatable learning experience, contributing to improved student satisfaction and retention.
 
   - position: Head teacher
