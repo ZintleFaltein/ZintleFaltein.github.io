@@ -127,32 +127,32 @@ skills:
         percent: 40
         icon: circle-stack
 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Singing
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Plant pressing
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  #- name: Hobbies
+   # color: '#eeac02'
+   # color_border: '#f0bf23'
+   # items:
+   #   - name: Singing
+   #     description: ''
+   #     percent: 60
+   #     icon: person-simple-walk
+   #   - name: Plant pressing
+   #     description: ''
+   #     percent: 100
+   #     icon: cat
+   #   - name: Photography
+   #     description: ''
+   #     percent: 80
+   #     icon: camera
 
-languages:
-  - name: English
-  - name: IsiXhosa
+#languages:
+#  - name: English
+#  - name: IsiXhosa
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+certificates:
   - title: Certified Scrum Master
     certificate_url: https://bcert.me/sxfgwnrhe
     date: '2024-08-17'
