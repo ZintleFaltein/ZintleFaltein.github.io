@@ -31,16 +31,16 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: SkillS
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-awards
+  - block: resume-certificates
     content:
-      title: Awards
+      title: Certificates
       username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+#  - block: resume-languages
+#    content:
+#      title: Languages
+#      username: admin
 ---
