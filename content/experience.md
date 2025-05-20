@@ -31,13 +31,13 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: SkillS
+      title: Skills
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-awards
+  - block: resume-certificates
     content:
-      title: Awards
+      title: Certficates
       username: admin
   - block: resume-languages
     content:
