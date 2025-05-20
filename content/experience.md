@@ -35,12 +35,12 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-certificates
+  - block: resume-awards
     content:
-      title: Certificates
+      title: Awards
       username: admin
-#  - block: resume-languages
-#    content:
-#      title: Languages
-#      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
