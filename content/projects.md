@@ -22,7 +22,7 @@ sections:
   - block: collection
     content:
       title: Projects I've worked on
-      text: Here you’ll find a selection of projects that showcase my skills in data science, analytics, and problem-solving. Each project reflects my passion for using data to answer meaningful questions, tell compelling stories, and deliver practical solutions.
+      text: Each project reflects my passion for using data to answer meaningful questions, tell compelling stories, and deliver practical solutions.
 
       filters:
         folders:
